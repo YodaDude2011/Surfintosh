@@ -31,10 +31,10 @@ Once the MacOS recovery screen appears, please follow the installation steps lik
 As of this time there are several features that are unavailable or issues that are prevalent with this EFI.
 
 Issues:
-No bluetooth driver
-Airdrop is non-functional
-Adjusting screen brightness does not work via keyboard or the control panel (Please install an app like Shade from the App Store as a workaround)
-Possible overheat and random restart issue
+- No bluetooth driver
+- Airdrop is non-functional
+- Adjusting screen brightness does not work via keyboard or the control panel (Please install an app like Shade from the App Store as a workaround)
+- Possible overheat and random restart issue
 
 
 # Notice
