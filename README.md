@@ -2,7 +2,7 @@
  Surfintosh is a MacOS 13 EFI made for the Microsoft Surface Laptop Go Model 1943 based on the Dortania OpenCore guide.
 
  # Getting Started
- Please read this entire guide before continuing!
+ Please read this entire guide before continuing! This guide is only to be used as a starting point for installtion.
  
  To install MacOS 13 on your Surface Laptop Go Gen 1, please download the EFI folder. This EFI folder was created using the OpenCore Dortania Guide found here: https://dortania.github.io/OpenCore-Install-Guide/
 
@@ -38,7 +38,7 @@ Issues:
 
 
 # Notice
-I am NOT responsible for any loss of data, drive corruption, or any other hardware/software issues due to installing MacOS on your device. MAKE SURE YOU BACKUP IMPORTANT DATA BEFORE INSTALLATION, USE THIS EFI AT YOUR OWN RISK.
+I am NOT responsible for any loss of data, drive corruption, or any other hardware/software issues due to installing MacOS on your device. Installation of MacOS on non-Apple hardware is unsupported. MAKE SURE YOU BACKUP IMPORTANT DATA BEFORE INSTALLATION, USE THIS EFI AT YOUR OWN RISK.
 
 If there any problems or errors during installation, please refer to the [Hackintosh discord](https://dortania.github.io/OpenCore-Install-Guide/) or [subreddit](https://www.reddit.com/r/hackintosh/). You may create an issue on Github if you would like but there is no promise that I will be able to provide a timely response
 
