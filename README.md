@@ -1,5 +1,6 @@
-# Surfintosh
+# Surfintosh (Depreciated)
  Surfintosh is a MacOS 13 EFI made for the Microsoft Surface Laptop Go Model 1943 based on the Dortania OpenCore guide.
+ ***This project is depreciated and may not receive any more updates***
 
  # Getting Started
  Please read this entire guide before continuing! This guide is only to be used as a starting point for installtion.
